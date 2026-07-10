@@ -1,0 +1,33 @@
+# Credenciais — NUNCA commitar
+.env
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build / dist
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+uvicorn.log
+main.py
+dre.html

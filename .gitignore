@@ -29,5 +29,5 @@ build/
 # Logs
 *.log
 uvicorn.log
-main.py
-dre.html
+/main.py
+/dre.html
